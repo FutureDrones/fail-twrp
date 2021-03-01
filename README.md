@@ -1,4 +1,4 @@
-# fail
+# fail but twrp
 ### Sometimes, Failing is the key to success. ###
 
 
@@ -37,6 +37,8 @@ Using a ubuntu docker ,configuring tmate and *forcing* the build to fail, users 
 - Let it fail again, and get the tmate ssh link 
 
 - Connect into ssh enjoy the magic
+
+- Run ``` build.sh ``` after proper configuration for faster builds
 
 #### - Credits and thanks ####
 
